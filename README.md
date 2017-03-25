@@ -6,6 +6,9 @@ This repository contains a working version of I2CDev library that fully supports
 I created this version because I needed to make the [MPU6050 DMP example](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050) work with a [PJON](https://github.com/gioblu/PJON/) bus.
 
 For more information, have a look at the respective projects:
+
 a) I2CDev: https://github.com/jrowberg/i2cdevlib/
+
 b) I2CMaster: http://dsscircuits.com/articles/86-articles/66-arduino-i2c-master-library
+
 c) PJON: https://github.com/gioblu/PJON/
